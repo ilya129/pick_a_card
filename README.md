@@ -1,16 +1,9 @@
-### Playing cards deck simulator
+pick_a_card = это Ruby программа, которая при запуске генерирует запрошенное количество случайных карт из колоды.
 
-A simple ruby script that genearates a requested number of random cards from a deck.
-
-### Usage
+### Инструкция по запуску программы
+1. Открыть интерпретатор и перейти к папке где храниться скаченные файлы
+2. Для запуска напишите:
 
 ```sh
 $ ruby main.rb
-
-How many cards do you pick?
-3
-
-7d
-9s
-10c
 ```
